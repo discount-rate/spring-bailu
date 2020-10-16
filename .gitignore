@@ -1,0 +1,4 @@
+# Project exclude paths
+/bailu-common/target/
+/bailu-eureka/target/
+/bailu-service/bailu-service-goods/target/
